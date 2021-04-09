@@ -1,0 +1,184 @@
+[33mcommit 712b49f4fc75f340ee05de32fd5ab97edb850007[m[33m ([m[1;36mHEAD -> [m[1;32mWahajuddin-Nayyar[m[33m, [m[1;31morigin/Wahajuddin-Nayyar[m[33m)[m
+Author: Wahajuddin Nayyar <Wahajuddin_Nayyar@outlook.com>
+Date:   Thu Apr 8 16:40:32 2021 -0400
+
+    Task 1 questions
+
+[33mcommit b147b1247fcfadf5e7231ef603b61cb09c87a190[m
+Author: Wahajuddin Nayyar <Wahajuddin_Nayyar@outlook.com>
+Date:   Thu Apr 8 01:26:06 2021 -0400
+
+    ReadMe answers written
+
+[33mcommit e75a35110a408408fbee06cf1e57248e98d3a345[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmaster[m[33m)[m
+Author: Brit Hemming <hello@brittanyhemming.com>
+Date:   Mon Nov 16 16:32:38 2020 -0500
+
+    Update README.md
+    
+    updated stretch tasks
+
+[33mcommit e35a1fe16aa1651e56393fa3859333aa88e59602[m
+Author: Brit Hemming <hello@brittanyhemming.com>
+Date:   Mon Nov 16 16:30:30 2020 -0500
+
+    Update README.md
+    
+    removed exit ticket
+
+[33mcommit 1b40e63029593e29929a313706ce66ece2037efe[m
+Author: Brit Hemming <hello@brittanyhemming.com>
+Date:   Mon Nov 16 16:29:54 2020 -0500
+
+    Update README.md
+    
+    updated submission instructions
+
+[33mcommit 4fabd930e72ed0c25b592fb996b7fa0860e3c64b[m
+Author: Brit Hemming <hello@brittanyhemming.com>
+Date:   Mon Nov 16 16:24:23 2020 -0500
+
+    Update index.js
+    
+    updated instructions - Brit / Dave
+
+[33mcommit 7a7a05c4aac176bd5334fd6fa6f1039d55d46794[m
+Merge: 5aac3b2 6b8367e
+Author: Brit Hemming <hello@brittanyhemming.com>
+Date:   Tue Nov 10 15:47:04 2020 -0500
+
+    Merge pull request #87 from daveKidd/patch-1
+    
+    Update index.js
+
+[33mcommit 6b8367ea365a9fbdf9a37640dd9a2b8a17aa784c[m
+Author: daveKidd <70600807+daveKidd@users.noreply.github.com>
+Date:   Tue Nov 10 13:15:12 2020 -0700
+
+    Update index.js
+
+[33mcommit 5aac3b2c0c24f37369c269f9c2b27487b88285bc[m
+Author: Brit Hemming <hello@brittanyhemming.com>
+Date:   Sun Nov 8 21:22:25 2020 -0500
+
+    Update README.md
+    
+    updated submission instructions
+
+[33mcommit dff4b88c4d22db0edc35aea908f0fb43325e7008[m
+Merge: 659e44e 7d4c5a0
+Author: BrityHemming <hello@brittanyhemming.com>
+Date:   Sun Nov 8 21:19:45 2020 -0500
+
+    updated index.js
+
+[33mcommit 659e44ead2291b04317517ad006a98e735fbb4de[m
+Author: BrityHemming <hello@brittanyhemming.com>
+Date:   Sun Nov 8 21:16:25 2020 -0500
+
+    added testing files to project
+
+[33mcommit 7d4c5a042887b47aed22461d44b55eaa30cbbf8d[m
+Merge: 59845f6 06adcb5
+Author: Brit Hemming <hello@brittanyhemming.com>
+Date:   Fri Oct 23 12:30:05 2020 -0400
+
+    Merge pull request #73 from daveKidd/rewordScopeClosure
+    
+    updated instructions
+
+[33mcommit 06adcb5c9efd3351ead61e5fa320ea00fac9ce4d[m
+Author: daveKidd <david.kidd@lambdaschool.com>
+Date:   Thu Oct 22 12:27:51 2020 -0600
+
+    BritsCommentsUpdate
+
+[33mcommit 5c85645f34c02d79e45938fb512edd4a7336d0d0[m
+Author: daveKidd <david.kidd@lambdaschool.com>
+Date:   Wed Oct 21 15:40:14 2020 -0600
+
+    updated instructions
+
+[33mcommit 59845f677379019e879ca914e7c168770de473ae[m
+Author: Zoe Ludwig <56557607+zoelud@users.noreply.github.com>
+Date:   Wed Jul 8 09:33:24 2020 -0700
+
+    Update index.js
+
+[33mcommit 2cb20c83c3665205150fae5e52367d70da40ddbe[m
+Author: Zoe Ludwig <56557607+zoelud@users.noreply.github.com>
+Date:   Mon Jul 6 19:24:20 2020 -0700
+
+    Update index.js
+
+[33mcommit a5dc59499f1b3eaa3a70cc2c28d976d66e268c9f[m
+Author: Brit Hemming <hello@brittanyhemming.com>
+Date:   Mon Jun 15 09:39:40 2020 -0400
+
+    Update index.html
+    
+    removed type attribute from script tag
+
+[33mcommit 4929d2bcf83078629d97a0ed76a2ac0a7b03d0a8[m
+Author: Zoe Ludwig <56557607+zoelud@users.noreply.github.com>
+Date:   Wed Jun 10 10:55:05 2020 -0700
+
+    Exit Ticket
+
+[33mcommit fc9b1d82cd65c20198b6cc684799fcac71f52804[m
+Author: Zoe Ludwig <56557607+zoelud@users.noreply.github.com>
+Date:   Thu May 7 16:03:07 2020 -0700
+
+    Clarify task 4
+
+[33mcommit 1d9b6c0ad4d7493bd4ba591eddefa2b61fbe06a6[m
+Author: Brit Hemming <hello@brittanyhemming.com>
+Date:   Tue Apr 21 15:42:12 2020 -0400
+
+    Update index.js
+    
+    added a missing return statement to the second function in task 1 - counter 1
+
+[33mcommit ccda6e17834310f0840ea6d26a9439de804f7e46[m
+Author: Brit Hemming <hello@brittanyhemming.com>
+Date:   Tue Apr 21 13:57:35 2020 -0400
+
+    Update README.md
+    
+    updated readme file to remove testing references
+
+[33mcommit d4773e00334b75e97e42245f314cc53a149ec488[m
+Author: Brit Hemming <hello@brittanyhemming.com>
+Date:   Tue Apr 21 13:56:45 2020 -0400
+
+    removed testing instructions
+    
+    removed testing instructions
+
+[33mcommit de7598f58cd45bbf832898a8c4283c616a9cc881[m
+Author: Brit Hemming <hello@brittanyhemming.com>
+Date:   Tue Apr 21 13:40:39 2020 -0400
+
+    updated readme file
+    
+    removed testing
+
+[33mcommit b2f6f401600ea040dfacf4c9fa41f2d300e01d6f[m
+Author: Brit Hemming <hello@brittanyhemming.com>
+Date:   Mon Apr 20 15:14:52 2020 -0400
+
+    created index.html file
+    
+    created index.html and linked index.js so that students can check work in console
+
+[33mcommit 3804f67de2a68ecba3f7c0b485dff65e35214dbe[m
+Author: Zoe Ludwig <56557607+zoelud@users.noreply.github.com>
+Date:   Mon Apr 20 12:13:51 2020 -0700
+
+    remove test
+
+[33mcommit 12ad81edf7247bb0f416395fe322ae638e9ba1cd[m
+Author: Zoe Ludwig <56557607+zoelud@users.noreply.github.com>
+Date:   Fri Apr 17 12:19:55 2020 -0700
+
+    add files via upload
