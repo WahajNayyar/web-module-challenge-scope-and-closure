@@ -65,7 +65,7 @@ NOTE: This will be a callback function for the tasks below
 
 function inning(){
     let score = 0;
-    return score + Math.floor(Math.random() * 6);
+    return score + Math.floor(Math.random() * 3);
 }
 inning();
 
@@ -84,7 +84,7 @@ Use the finalScore function below to do the following:
 }
 */ 
 
-function finalScore(/*code Here*/){
+function finalScore(callback, numberinnings){
   /*Code Here*/
 }
 
